@@ -1,0 +1,58 @@
+[
+	{
+		"ime": "Name*",
+		"id": "formIme",
+		"obavezno": true,
+		"tip": "text",
+		"klasa": "vazno"
+	},
+	{
+		"ime": "Last Name*",
+		"id": "formPrez",
+		"obavezno": true,
+		"tip": "text",
+		"klasa": "vazno"
+	},
+	{
+		"ime": "Password*",
+		"id": "formPass",
+		"obavezno": true,
+		"tip": "password",
+		"klasa": "vazno"
+	},
+	{
+		"ime": "Confirm Password*",
+		"id": "formPass2",
+		"obavezno": true,
+		"tip": "password",
+		"klasa": "vazno"
+	},
+	{
+		"ime": "Gender",
+		"id": "formGend",
+		"obavezno": false,
+		"tip": "radio",
+		"klasa": "nije"
+	},
+	{
+		"ime": "Email*",
+		"id": "formMail",
+		"obavezno": true,
+		"tip": "text",
+		"klasa": "vazno"
+	},
+	{
+		"ime": "Date of Birth*",
+		"id": "formRodj",
+		"obavezno": true,
+		"tip": "dropdown",
+		"klasa": "vazno"
+	},
+	{
+		"ime": "Extra",
+		"id": "formCheck",
+		"obavezno": false,
+		"tip": "checkb",
+		"klasa": "nije"
+	}
+]

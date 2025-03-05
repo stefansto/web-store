@@ -1,0 +1,115 @@
+[
+	{
+		"id": 1,
+		"ime": "Placeholder item 1 - book",
+		"slika": {
+			"src": "slike/prod1.jpg",
+			"alt": "product1"
+		},
+		"tip": "book",
+		"cena":{
+			"nova": 10,
+			"stara": "11",
+			"snizenje": true
+		},
+		"dostupno": true
+	},{
+		"id": 2,
+		"ime": "Placeholder item 2 - book",
+		"slika": {
+			"src": "slike/prod2.jpg",
+			"alt": "product2"
+		},
+		"tip": "book",
+		"cena":{
+			"nova": 11,
+			"stara": "",
+			"snizenje": false
+		},
+		"dostupno": true
+	},{
+		"id": 3,
+		"ime": "Placeholder item 3 - dvd",
+		"slika": {
+			"src": "slike/prod3.jpg",
+			"alt": "product3"
+		},
+		"tip": "dvd",
+		"cena":{
+			"nova": 12,
+			"stara": "",
+			"snizenje": false
+		},
+		"dostupno": true
+	},{
+		"id": 4,
+		"ime": "Placeholder item 4 - book",
+		"slika": {
+			"src": "slike/prod4.jpg",
+			"alt": "product4"
+		},
+		"tip": "book",
+		"cena":{
+			"nova": 15,
+			"stara": "20",
+			"snizenje": true
+		},
+		"dostupno": true
+	},{
+		"id": 5,
+		"ime": "Placeholder item 5 - pic",
+		"slika": {
+			"src": "slike/prod5.jpg",
+			"alt": "product5"
+		},
+		"tip": "picture",
+		"cena":{
+			"nova": 35,
+			"stara": "49.99",
+			"snizenje": true
+		},
+		"dostupno": true
+	},{
+		"id": 6,
+		"ime": "Placeholder item 6 - random",
+		"slika": {
+			"src": "slike/prod6.jpg",
+			"alt": "product6"
+		},
+		"tip": "other",
+		"cena":{
+			"nova": 10,
+			"stara": "",
+			"snizenje": false
+		},
+		"dostupno": true
+	},{
+		"id": 7,
+		"ime": "Placeholder item 7 - random",
+		"slika": {
+			"src": "slike/prod7.jpg",
+			"alt": "product7"
+		},
+		"tip": "other",
+		"cena":{
+			"nova": 11,
+			"stara": "",
+			"snizenje": false
+		},
+		"dostupno": false
+	},{
+		"id": 8,
+		"ime": "Placeholder item 8 - dvd",
+		"slika": {
+			"src": "slike/prod8.jpg",
+			"alt": "product8"
+		},
+		"tip": "dvd",
+		"cena":{
+			"nova": 49,
+			"stara": "",
+			"snizenje": false
+		},
+		"dostupno": true
+	}
+]

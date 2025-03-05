@@ -1,0 +1,38 @@
+[
+	{
+		"textId": "partTekst1",
+		"text": "Placeholder text for button 1.",
+		"dugme": {
+			"dugmeId": "slika21",
+			"dugmeSrc": "slike/dugme1.jpg",
+			"dugmeAlt": "button1"
+		}
+	},
+	{
+		"textId": "partTekst2",
+		"text": "Placeholder text for button 2.",
+		"dugme": {
+			"dugmeId": "slika22",
+			"dugmeSrc": "slike/dugme2.jpg",
+			"dugmeAlt": "button2"
+		}
+	},
+	{
+		"textId": "partTekst3",
+		"text": "Placeholder text for button 3.",
+		"dugme": {
+			"dugmeId": "slika23",
+			"dugmeSrc": "slike/dugme3.jpg",
+			"dugmeAlt": "button3"
+		}
+	},
+	{
+		"textId": "partTekst4",
+		"text": "Placeholder text for button 4.",
+		"dugme": {
+			"dugmeId": "slika24",
+			"dugmeSrc": "slike/dugme4.jpg",
+			"dugmeAlt": "button4"
+		}
+	}
+]

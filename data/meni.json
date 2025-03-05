@@ -1,0 +1,27 @@
+[
+	{
+		"id": 1,
+		"link": "index.html",
+		"naziv": "Home"
+	},
+	{
+		"id": 2,
+		"link": "galerija.html",
+		"naziv": "Gallery"
+	},
+	{
+		"id": 3,
+		"link": "nalog.html",
+		"naziv": "Account"
+	},
+	{
+		"id": 4,
+		"link": "prodavnica.html",
+		"naziv": "Store"
+	},
+	{
+		"id": 5,
+		"link": "korpa.html",
+		"naziv": "Cart"
+	}
+]

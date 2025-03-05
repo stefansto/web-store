@@ -1,0 +1,16 @@
+[
+	{
+		"ime": "Email",
+		"id": "formMailLog",
+		"obavezno": true,
+		"tip": "text",
+		"klasa": "vazno"
+	},
+	{
+		"ime": "Password",
+		"id": "formPassLog",
+		"obavezno": true,
+		"tip": "password",
+		"klasa": "vazno"
+	}
+]

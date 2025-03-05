@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+   	<head>
+    	<meta name="author" content="Stefan Stojic">
+    	<meta charset="utf-8">
+    	<meta name="keywords" content="store galery site">
+     	<meta name="description" content="personal project">
+    	<link rel="shortcut icon" type="image/png" href="css/images/icon.png"/>
+	  	<link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400" rel="stylesheet"> 
+      	<link href="css/style.css" type="text/css" rel="stylesheet">
+      	<title>Store</title>
+   	</head>
+	<body>
+      	<header id="pocetna">
+      	</header>
+	  	<h2>Store</h2>
+	  	<hr/>
+		<div id="store">
+			<div id="filteri">
+			<p id="filternaslov">Filter:</p>
+				<div id="filtLevo">
+					<a href="" id="sortPrikaz"><b>Sort V</b></a>
+					<a href="" class="sortiranje" data-nacin="naziv" data-niz="asc">By Name</a>
+					<a href="" class="sortiranje" data-nacin="naziv" data-niz="desc">By Name Descending</a>
+					<a href="" class="sortiranje" data-nacin="cena" data-niz="asc">By Price</a>
+					<a href="" class="sortiranje" data-nacin="cena" data-niz="desc">By Price Descending</a>
+				</div>
+				<div id="filtDesno">
+					<a href="" id="filtPrikaz"><b>Choose a category ^</b></a>
+					<a href="" class="filtriranje" data-tip="book">Book</a>
+					<a href="" class="filtriranje" data-tip="picture">Picture</a>
+					<a href="" class="filtriranje" data-tip="dvd">DVDs</a>
+					<a href="" class="filtriranje" data-tip="other">Other</a>
+				</div>
+				<div id="trazid">
+					<p class="textPretraga"><b>Search:</b></p>
+					<form method="get" action="#" id="search">
+						<input type="text" id="potraziProizvod" />
+						<input type="button" id="trazi" value="Search"/>
+					</form>
+					<a href="#" id="resetovanje" data-tip="">Reset</a>
+				</div>
+			</div>
+			<div id="proizvodi">
+				<div class="proizvod">
+				</div>
+			</div>
+		</div>
+		<footer>
+        </footer>
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/mainProdavnica.js"></script>
+   </body>
+</html>

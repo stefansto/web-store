@@ -1,0 +1,30 @@
+[
+	{
+		"id": "prvi1",
+		"naslov": "Introduction",
+		"slika": {
+			"src": "slike/slika1.jpg",
+			"alt": "jojoslika1"
+		},
+		"text": "Introduction text here.",
+		"dugme": {
+			"src": "slike/buttonnext.png",
+			"alt": "next",
+			"class": "slikaNext"
+		}
+	},
+	{
+		"id": "prvi2",
+		"naslov": "More...",
+		"slika": {
+			"src": "slike/slika2.jpg",
+			"alt": "jojoslika2"
+		},
+		"text": "More introduction text...",
+		"dugme": {
+			"src": "slike/buttonprev.png",
+			"alt": "back",
+			"class": "slikaBack"
+		}
+	}
+]

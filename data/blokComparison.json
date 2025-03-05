@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"text": "Comparison 1",
+		"slika1": {
+			"src": "slike/compar11.jpg",
+			"alt": "a1"
+		},
+		"slika2": {
+			"src": "slike/compar12.jpg",
+			"alt": "b1"
+		}
+	},
+	{
+		"id": 2,
+		"text": "Comparison 2",
+		"slika1": {
+			"src": "slike/compar21.jpg",
+			"alt": "a2"
+		},
+		"slika2": {
+			"src": "slike/compar22.jpg",
+			"alt": "b2"
+		}
+	},
+	{
+		"id": 3,
+		"text": "Comparison 3",
+		"slika1": {
+			"src": "slike/compar31.jpg",
+			"alt": "a3"
+		},
+		"slika2": {
+			"src": "slike/compar32.jpg",
+			"alt": "b3"
+		}
+	}
+]
